@@ -1,4 +1,4 @@
-const API_KEY = "168771779c71f3d64106d8a88376808a";
+const API_KEY = "YOUR_API_KEY";
 const weatherId = document.querySelector("#weather");
 
 async function getWeather() {
