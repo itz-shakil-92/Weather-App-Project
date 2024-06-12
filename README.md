@@ -72,7 +72,7 @@ The CSS file (`styles.css`) provides styling for the various components of the a
 
 ### JavaScript Functionality
 
-The JavaScript file (`script.js`) includes the functionality to fetch and display weather information:
+The JavaScript file (`index.js`) includes the functionality to fetch and display weather information:
 - Functions to fetch weather data using the OpenWeatherMap API.
 - Event listeners for granting location access and searching for weather by city.
 - Functions to display the fetched weather data in the app.
